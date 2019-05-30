@@ -1,0 +1,14 @@
+http://www.forosdelweb.com/f18/como-conectar-app-movil-phonegap-con-mysql-remoto-1003091/
+https://www.phonegapspain.com/topic/conectarse-a-base-de-datos-externa-al-movil/
+https://cordova.apache.org/docs/es/latest/guide/appdev/whitelist/
+https://cordova.apache.org/docs/es/latest/guide/appdev/whitelist/
+https://medium.com/voobans-tech-stories/how-to-quickly-create-a-simple-rest-api-for-sql-server-database-7ddb595f751a
+https://www.npmjs.com/package/mssql
+https://www.furbano.com/ejecutar-un-servicio-restfull-desde-un-stored-procedure/
+https://medium.com/@maheshi.gunarathne1994/building-a-restful-api-with-asp-net-web-api-and-sql-server-ce7873d5b331
+https://www.google.com/search?rlz=1C1GCEU_esAR822AR822&ei=FunvXKGyN4my5OUPy7qL0Ao&q=conectar+phonegap+base+de+datos+php+escollo&oq=conectar+phonegap+base+de+datos+php+escollo&gs_l=psy-ab.3..33i160l2.9376.10369..10423...0.0..0.195.1157.0j7......0....1..gws-wiz.......0i71j33i21.8UVzXdKzQuQ
+http://www.forosdelweb.com/f18/como-conectar-app-movil-phonegap-con-mysql-remoto-1003091/
+https://www.phonegapspain.com/topic/conectar-la-aplicacion-phonegap-con-mysql-externa/page/2/
+https://www.phonegapspain.com/topic/conectar-la-aplicacion-phonegap-con-mysql-externa/
+https://codesundar.com/cordova-sqlite-storage/
+https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/
